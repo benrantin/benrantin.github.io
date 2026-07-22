@@ -1,18 +1,13 @@
 ---
-layout: page
+layout: archive
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Hi, I'm Ben Rantin
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a student in my final year at Manchester Metropolitan University. Ever since I was a kid, I've messed around with computer systems, programming, networking and developing. From creating python scripts to hosting videogame servers for my friends to play on, I've always had a passion for tinkering and computing. Since then, I've worked on my skills in backend development and have taught myself HTML, C# and javascript. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm super passionate about working on big projects and using my technical skills to work with likeminded people to create beautiful and well-designed web and mobile applications. I love teaching, learning and hopefully getting better at what I do everyday. 
 
-
-[jekyll-organization]: https://github.com/jekyll
+With that, I'm looking for something over the summer to work on my skills, meet new people, make connections, and to get real hands-on expereince in the industry for the first time! 
