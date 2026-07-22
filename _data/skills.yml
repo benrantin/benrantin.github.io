@@ -1,0 +1,23 @@
+technical:
+ - title: CSS & HTML
+   level: Beginner
+ - title: JavaScript
+   level: Beginner
+ - title: SQL
+   level: Beginner
+ - title: React & Expo
+   level: Beginner
+
+soft:
+ - title: Writing
+   level: Intermediate
+ - title: Leadership
+   level: Intermediate
+ - title: Problem Solving
+   level: Intermediate
+ - title: Teamwork
+   level: Intermediate
+ - title: Customer Service
+   level: Advanced
+ - title: Time Management
+   level: Advanced

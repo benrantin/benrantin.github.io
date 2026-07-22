@@ -2,6 +2,8 @@
 layout: archive
 title: About
 permalink: /about/
+author: Ben Rantin
+author_profile: true
 ---
 
 # Hi, I'm Ben Rantin
@@ -11,3 +13,12 @@ I'm a student in my final year at Manchester Metropolitan University. Ever since
 I'm super passionate about working on big projects and using my technical skills to work with likeminded people to create beautiful and well-designed web and mobile applications. I love teaching, learning and hopefully getting better at what I do everyday. 
 
 With that, I'm looking for something over the summer to work on my skills, meet new people, make connections, and to get real hands-on expereince in the industry for the first time! 
+
+# My Skills
+### Technical Skills
+
+{% include technicalskills.md %}
+
+### Soft Skills
+
+{% include softskills.md %}
