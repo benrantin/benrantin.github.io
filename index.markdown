@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![Ben Rantin](/assets/images/me.jpg){: .avatar}
+![Ben Rantin](/assets/images/me compressed.jpg){: .avatar}
 # Hi there! I'm Ben.
 I'm a final year computer science student in Manchester.
 
